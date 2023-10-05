@@ -1,14 +1,18 @@
 
 
-Source files of "A Hardware Implementation Of An Open-source Qibla Direction Finder With Tilt Compensation Using 9-DOF IMU And GPS" paper presented in Innovations in Intelligent Systems and Applications Conference (ASYU). 
+Source files of "A Hardware Implementation Of An Open-source Qibla Direction Finder With Tilt Compensation Using 9-DOF IMU And GPS" paper presented in Innovations in Intelligent Systems and Applications Conference (ASYU 2023). 
 
 ## Abstract 
 The proposed Hardware implementation studied the tilt compensation and compass soft-iron and hard-iron calibration. Without the tilt compensation and compass calibration, finding the Qibla direction will prone to error. The Qibla error without tilt compensation can reach up to 100 degrees for 30 degrees pitch. The proposed design uses out-of-the-shelf 9DOF (9 Degrees of Freedom) IMU (Inertial Measurement Unit), and an optional GPS receiver to get the location. The accelerometer and gyroscope data, with a complementary filter,  are used to calculate the pitch and roll angles which are used in tilt compensation. The magnetometer is used to calculate the azimuth.   
 
 Bellow comparison between the calculated direction with and without tilt compensation in different pitch and roll setups:
 
-![comparison between the calculated direction with
-and without tilt compensation in different pitch and roll setups](/imgs/compare-table.png)
+![comparison between the calculated direction with and without tilt compensation in different pitch and roll setups](/imgs/compare-table.png)
+
+## Demo Video
+
+[![Demo Video](/imgs/video_demo.png)](https://www.youtube.com/watch?v=1PDo_kSdmOk)   
+
 
 ## Hardware 
 The circuit consists of
