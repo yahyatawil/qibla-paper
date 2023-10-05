@@ -52,7 +52,7 @@ As part of the work was done in this paper, please check:
 
 ## Citation 
 ```
-@inproceedings{tawil2022deep,
+@inproceedings{tawil2023qibla,
   title={A Hardware Implementation Of An Open-source Qibla Direction Finder With Tilt Compensation Using 9-DOF IMU And GPS},
   author={Tawil, Yahya},
   booktitle={2023 Innovations in Intelligent Systems and Applications Conference (ASYU)},
