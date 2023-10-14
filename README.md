@@ -14,7 +14,7 @@ Bellow comparison between the calculated direction with and without tilt compens
 [![Demo Video](/imgs/video_demo.png)](https://www.youtube.com/watch?v=1PDo_kSdmOk)   
 
 ## Conference Video Presentation 
-![Paper presentation at ASYU 2023](https://youtu.be/CLNGyAZPfqE)
+[Paper presentation at ASYU 2023](https://youtu.be/CLNGyAZPfqE)
 
 ## Hardware 
 The circuit consists of
