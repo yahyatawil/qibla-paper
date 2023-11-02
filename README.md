@@ -54,12 +54,13 @@ As part of the work was done in this paper, please check:
 
 ## Citation 
 ```
-@inproceedings{tawil2023qibla,
-  title={A Hardware Implementation Of An Open-source Qibla Direction Finder With Tilt Compensation Using 9-DOF IMU And GPS},
+@INPROCEEDINGS{10296590,
   author={Tawil, Yahya},
-  booktitle={2023 Innovations in Intelligent Systems and Applications Conference (ASYU)},
-  pages={1--6},
+  booktitle={2023 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
+  title={A Hardware Implementation Of An Open-source Qibla Direction Finder With Tilt Compensation Using 9-DOF IMU And GPS}, 
   year={2023},
-  organization={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ASYU58738.2023.10296590}}
 ```
